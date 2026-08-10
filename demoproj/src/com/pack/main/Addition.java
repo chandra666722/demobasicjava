@@ -7,5 +7,6 @@ public class Addition {
 		return i;
 	}
 	int a;
+	int b;
 
 }
