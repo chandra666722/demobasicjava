@@ -6,6 +6,6 @@ public class Addition {
 		System.out.println(i);
 		return i;
 	}
-	int a;
+	int c;
 
 }
