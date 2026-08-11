@@ -8,5 +8,8 @@ public class Multiply {
 		return a;
 		
 	}
+	void m2() {
+		System.out.println(10);
+	}
 
 }
