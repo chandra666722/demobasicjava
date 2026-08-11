@@ -14,7 +14,8 @@ public class Multiply {
 	}
 	void m1()
 	{
-		
+		int a=2;
 	}
+	
 
 }
